@@ -4,7 +4,7 @@ description: Just personal blogs.
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
 baseurl: ''
-google_analytics: ''
+google_analytics: '"UA-143014045-1"'
 disqus: adiatma9024
 include:
   - _pages
@@ -13,7 +13,7 @@ authors:
   adiatma:
     name: Adiatma Kamarudin
     display_name: adiatma
-    description: Software Engineer
+    description: "Software Engineer"
     web: 'https://adiatma.github.io'
 plugins:
   - jekyll-paginate
@@ -37,7 +37,7 @@ kramdown:
     block:
       line_numbers: true
 adsense: enabled
-adsense-data-ad-client: ca-pub-3949943425882481
+adsense-data-ad-client: "ca-pub-3949943425882481"
 adsense-data-ad-slot: ''
 lazyimages: disabled
 exclude:
