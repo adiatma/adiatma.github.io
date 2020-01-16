@@ -19,5 +19,6 @@ group :jekyll_plugins do
     gem 'rouge'
 end
 
+# Jekyll admin
 gem 'jekyll-admin', group: :jekyll_plugins
 
