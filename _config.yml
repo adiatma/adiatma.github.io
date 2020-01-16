@@ -5,13 +5,16 @@ logo: assets/images/logo.png
 favicon: assets/images/logo.png
 baseurl: ''
 google_analytics: ''
-disqus: ''
+disqus: adiatma9024
 include:
   - _pages
 permalink: '/:title/'
 authors:
-  name: Adiatma Kamarudin
-  display_name: adiatma
+  adiatma:
+    name: Adiatma Kamarudin
+    display_name: adiatma
+    description: Software Engineer
+    web: 'https://adiatma.github.io'
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
