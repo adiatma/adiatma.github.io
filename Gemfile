@@ -18,3 +18,6 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
 end
+
+gem 'jekyll-admin', group: :jekyll_plugins
+
