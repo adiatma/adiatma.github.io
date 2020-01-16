@@ -3,7 +3,7 @@ title: How to deploy golang app in heroku
 layout: post
 image: assets/images/heroku-yml.png
 author: adiatma
-categories: golang, heroku
+categories: golang
 ---
 
 Heroku is a platform as a service (Paas) that enable you to deploy and building web apps and save to the cloud. Heroku support any languages or framework like NodeJS, Golang, Ruby, PHP, Python, Scala, and Clojure.

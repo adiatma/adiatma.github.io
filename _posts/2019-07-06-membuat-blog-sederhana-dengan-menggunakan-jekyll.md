@@ -3,7 +3,7 @@ title: Membuat blog sederhana dengan menggunakan Jekyll
 layout: post
 author: adiatma
 image: assets/images/jekyll.png
-categories: jekyll, blogs
+categories: jekyll
 ---
 
 > Transform your plain text into static websites and blogs.

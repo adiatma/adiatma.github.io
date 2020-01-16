@@ -2,8 +2,7 @@
 title: Berkenalan dengan webpack
 layout: post
 author: adiatma
-categories: javascript, webpack
-featured: false
+categories: javascript
 image: assets/images/webpack.png
 ---
 
