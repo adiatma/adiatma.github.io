@@ -3,7 +3,7 @@ title: Adiatma Kamarudin
 description: Just personal blogs.
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
-baseurl: 'https://adiatma.github.io'
+baseurl: ''
 google_analytics: '"UA-143014045-1"'
 disqus: adiatma9024
 include:
