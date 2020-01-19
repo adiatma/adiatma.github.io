@@ -12,7 +12,7 @@ By default, the items in a module in rust have private visibility, and you have 
 
 Okay, let's try the example, if you have installed rust in your computer, please create new project with command `cargo new example-rust-module` into your terminal.
 
-```javascript
+```rust
 // ./src/main.rs
 
 // to create module in rust you just add keyword mod before statement.
@@ -36,7 +36,7 @@ fn main() {
 
 Okay, let's create a new file with the name `another_module.rs`.
 
-```javascript
+```rust
 // ./src/another_module.rs
 
 mod hello_module {
@@ -48,7 +48,7 @@ mod hello_module {
 
 And call the module in `./src/main.rs`.
 
-```javascript
+```rust
 // ./src/main.rs
 
 mod another_module;
@@ -60,7 +60,7 @@ fn main() {
 
 How if you want to create a new directory, let's say `mod_dir`. and create a new module in `mod_dir`, to doing it you need to create a file `lib.rs` in root directory and publish them in `lib.rs` file, below the example for more detail.
 
-```javascript
+```rust
 // ./src/lib.rs
 
 pub mod mod_dir;
@@ -68,7 +68,7 @@ pub mod mod_dir;
 
 And then, in `mod_dir` you just create the file with name `mod.rs`.
 
-```javascript
+```rust
 // ./mod_dir/mod.rs
 
 pub fn hey(name: String) {
@@ -78,7 +78,7 @@ pub fn hey(name: String) {
 
 Okay, let's call the module in `./src/main.rs`.
 
-```javascript
+```rust
 // please add the extern crate keyword and suitable with your project name. example `example_rust_module`.
 extern crate example_rust_module;
 

@@ -49,3 +49,6 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+jekyll_admin:
+  hidden_links:
+    - datafiles
