@@ -39,10 +39,10 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
-adsense: enabled
-adsense-data-ad-client: "ca-pub-3949943425882481"
+adsense: 'disabled'
+adsense-data-ad-client: ''
 adsense-data-ad-slot: ''
-lazyimages: disabled
+lazyimages: 'enabled'
 exclude:
   - changelog.md
   - LICENSE.txt
